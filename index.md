@@ -6,6 +6,8 @@ My name is Brandon Chaing, I am studying **Computer Engineering** at *University
 One of the quotes that I follow most as a programmer is from one of my introductory Computer Science professors, Niema Moshiri:
 > Start Early, Start Often
 
+If you want to see my interests other than programming, check out the [interests section](#Interests).
+
 To see some of recent projects, you can check my [github](https://github.com/bchaing).
 
 You can use `git clone` to use these projects on your local machine. \
